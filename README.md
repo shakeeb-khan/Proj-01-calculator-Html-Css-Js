@@ -1,1 +1,1 @@
-Demo Link: https://digii-calculator.netlify.app/
+Demo Link: https://calculator-calcii.netlify.app/
